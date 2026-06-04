@@ -1,6 +1,6 @@
 # ToDoApp
 
-<img width="500" height="500" alt="icon" src="https://github.com/user-attachments/assets/982976b1-666b-4b05-8ee4-a8ef3adfff5e" />
+<img width="331" height="331" alt="icon" src="https://github.com/user-attachments/assets/0ae34c31-7d42-49c1-8bb3-5769bb6b8062" />
 
 ## Getting Started
 
