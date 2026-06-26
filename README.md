@@ -2,8 +2,6 @@
 
 <img width="331" height="331" alt="icon" src="https://github.com/user-attachments/assets/0ae34c31-7d42-49c1-8bb3-5769bb6b8062" />
 
-
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
